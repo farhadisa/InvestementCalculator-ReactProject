@@ -1,9 +1,10 @@
-Investment Calculator with React
+# Investment Calculator with React
 
-HTML
+**HTML**
 
-CSS 
+**CSS** 
 
-React
+**React**
 
-This is a Investment Calculator app, that is created with React by me in 2024.
+## This is a Investment Calculator app.
+#### *©This app is created with React by me in 2024.*
